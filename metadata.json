@@ -1,0 +1,6 @@
+{
+  "name": "Bus Entry",
+  "description": "Bus Entry and Shift Report Management for Transport Security, Ashok Leyland - Ennore",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
